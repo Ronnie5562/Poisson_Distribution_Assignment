@@ -26,7 +26,7 @@ Where:
 
 The Poisson distribution is widely used in various fields, including:
 
-1. Call center management: Modeling the number of calls received per hour
+1. Coffee Shop Arrivals
 2. Quality control: Analyzing the number of defects in a production line
 3. Biology: Studying the number of mutations in a DNA sequence
 4. Finance: Modeling the number of trades per day in a stock market
@@ -40,22 +40,15 @@ This assignment involves:
 3. Visualizing the results using matplotlib or seaborn
 4. Discussing the implications of the Poisson distribution in machine learning contexts
 
-## Repository Structure
-
-- `src/`: Source code for implementing the Poisson distribution
-- `data/`: Sample datasets used in the analysis
-- `notebooks/`: Jupyter notebooks containing the analysis and visualizations
-- `report/`: Final report and findings
-
-## Getting Started
-
-1. Clone this repository
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter notebooks in the `notebooks/` directory
-
 ## Contributors
 
-[Your Name]
+1. Glen Miracle
+2. Eunice Adewusi
+3. Ronald Abimbola
+4. Jordan Nguepi
+5. Justice Chukwuonye
+
+   
 
 ## License
 
