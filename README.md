@@ -48,8 +48,6 @@ This assignment involves:
 4. Jordan Nguepi
 5. Justice Chukwuonye
 
-   
+## Demo Video
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# Poisson_Distribution_Assignment
+Watch our video presentation [here](https://youtu.be/tRzl0DnykHA)
