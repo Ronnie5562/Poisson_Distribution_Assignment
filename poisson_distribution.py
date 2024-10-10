@@ -29,10 +29,6 @@ ax.set_title("Poisson Distribution: Coffee Shop Customer Arrivals", fontsize=16)
 ax.set_xlabel("Number of Customers per Hour", fontsize=12)
 ax.set_ylabel("Probability", fontsize=12)
 
-# FROM HERE
-
-
-
 # Move the legend to the upper left corner
 ax.legend(fontsize=10, loc='upper left')
 
